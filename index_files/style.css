@@ -5,6 +5,7 @@ body {
     font-family: "Merriweather", serif;
   }
 
+
   @media screen and (max-width: 600px) {
       body{
         width: fit-content;
@@ -57,6 +58,7 @@ h2 {
     background-color: #e4f9f5;
     position: relative;
     padding-top: 100px;
+    width: 100%
   }
 
   .middle-container {
